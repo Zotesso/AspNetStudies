@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TmsZHYt2PBpFeiODMH8r6gnrdtE32cARxI7/o4PuYkKwiYEEPz1NaDGKopVcFAnfkKGUmcURDmkv9XzWOiZwnQ==",
+  "dgSpecHash": "qcb1CfD0cg5Q10XFQywh3my+FGCHZ7ysmddafzuboAk8XQ40JABYfJxZ8jBNB1uEoaigmUe5F1cCWs4ItGT0XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\Documents\\Projects\\TaskManagerExample\\TaskManagerExample.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\Documents\\Projects\\AspNetStudies\\TaskManagerExample\\TaskManagerExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

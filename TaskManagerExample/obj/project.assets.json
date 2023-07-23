@@ -2227,11 +2227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Documents\\Projects\\TaskManagerExample\\TaskManagerExample.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Documents\\Projects\\AspNetStudies\\TaskManagerExample\\TaskManagerExample.csproj",
       "projectName": "TaskManagerExample",
-      "projectPath": "C:\\Users\\gabri\\Documents\\Projects\\TaskManagerExample\\TaskManagerExample.csproj",
+      "projectPath": "C:\\Users\\gabri\\Documents\\Projects\\AspNetStudies\\TaskManagerExample\\TaskManagerExample.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Documents\\Projects\\TaskManagerExample\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Documents\\Projects\\AspNetStudies\\TaskManagerExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
